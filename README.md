@@ -2,7 +2,12 @@
 
 A repo for LLM models using Open Source Hugging Face
 
-## All using HuffingFace Open Source
-### Chat Models
-### Embedding Models
-### Prompt UI models
+#### Instructions:
+*  1st step is to crate virtual environment
+*  use requirements.txt file for installing dependencies
+
+  
+### All using HuffingFace Open Source
+#### Chat Models
+#### Embedding Models
+#### Prompt UI models
